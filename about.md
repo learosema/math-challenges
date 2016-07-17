@@ -12,4 +12,6 @@ Disclaimer: I cannot garantuee that my solutions are good, or even correct. If y
 It's more a learning-by-doing thing to get started with Jekyll, the blog-aware static site generator that power GitHub Pages. 
 I still have to figure things out.
 
-Have
+Have a lot of fun!
+
+Lutz Rosema
