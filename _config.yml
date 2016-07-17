@@ -10,9 +10,6 @@ title: Math challenges
 email: terabaud@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
   This is a place where I try to solve various math challenges from project euler. 
-  At this point, there is nearly no content here yet. I'm just getting started with Jekyll, 
-  the blog-aware static site generator that power GitHub Pages; I still have to figure out 
-  how to add interactive code snippets and spoiler buttons (hide the solution until you press a spoiler button)
 baseurl: "/math-challenges" # the subpath of your site, e.g. /blog
 url: "http://terabaud.github.io" # the base hostname & protocol for your site
 twitter_username: terabaud
