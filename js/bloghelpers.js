@@ -26,8 +26,8 @@
         var testId   = "test"   + num;
         var editor   = ace.edit(editorId);
         var source   = editor.getValue();
-        var testSource = document.getElementById(testId).textContent;
-        var testResult = eval(source + ";" + testSource);
+        var testSource = document.getElementById(testId).textContent.replace(/&amp;/g,"&");        
+        var testResult = eval(source + "\n;\n" + testSource);
         if (testResult == true) {
             alert("test passed :)");
         } else {
