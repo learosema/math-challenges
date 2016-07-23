@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="stylesheet" href="css/prime-sieve.css">  
+</head>
+  <body>
+        <div id="grid" class="grid"></div>
+        <script>
+            var cols = 19;
+            for(i = cols*cols;i--;){
+                var child = document.createElement("div");
+                child.setAttribute("class", "item");
+                grid.appendChild(child);
+            }
+        </script>
+        <script src="js/prime-sieve.js"></script>
+  </body>
+</html>
