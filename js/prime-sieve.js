@@ -2,7 +2,7 @@ var cols = 19;
 for(i = cols*cols;i--;){
     var child = document.createElement("div");
     child.setAttribute("class", "item");
-    cols.textContent = (cols*cols-i);
+    child.textContent = (cols*cols-i);
     grid.appendChild(child);
 }
 
