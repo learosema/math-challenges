@@ -21,4 +21,4 @@ If you have suggestions, spot any mistakes or just want to say hi, don't hesitat
 
 Have a lot of fun!
 
-Lutz Rosema
+Lea Rosema
